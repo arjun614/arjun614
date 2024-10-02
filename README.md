@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arjun614
-- 👀 I’m interested in python,dsa and backed 
+- 👀 I’m interested in python, dsa and backend 
 - 🌱 I’m currently learning advance python
 - 📫 How to reach me @arjun__mahesh
   
