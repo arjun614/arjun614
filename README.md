@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjun614
 - 👀 I’m interested in python, dsa and FullStack Development 
-- 🌱 I’m currently learning advance python and full stack 
+- 🌱 I’m currently learning advance python, full stack and fullstack development. 
 - 📫reach me @arjun__mahesh
   
 
